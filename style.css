@@ -56,6 +56,7 @@ p{
     color: #E5E7EB;
     background-color: #3882F6;
     border: #3882F6;
+    font-size: 18px;
     border-radius: 16px;
     padding: 10px 25px;
     display: flex;
@@ -113,7 +114,8 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap:50px
+    gap:50px;
+    flex-wrap: wrap;
 }
 
 
@@ -159,3 +161,45 @@ ul{
 }
 
 
+/* third container  */
+
+.container4{
+    background-color: white ;
+    padding: 100px 200px;
+
+}
+
+.blue-card{
+    color: white ;
+    background-color: #3882F6;
+    padding: 50px 120px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.title4{
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 12px;
+}
+
+.tetx4{
+    font-size: 18px;
+}
+
+.button-div{
+    display: flex;
+    align-items: end;
+}
+
+.button2{
+    background-color: #3882F6;
+    color:white ;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding:10px 50px;
+
+}
