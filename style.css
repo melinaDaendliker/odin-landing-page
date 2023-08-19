@@ -54,8 +54,8 @@ p{
 
 .button1{
     color: #E5E7EB;
-    background-color: #7E1717;
-    border: #7E1717;    ;
+    background-color: #a11a1a;
+    border: #a11a1a;    ;
     font-size: 18px;
     border-radius: 16px;
     padding: 10px 25px;
@@ -171,7 +171,7 @@ ul{
 
 .blue-card{
     color: white ;
-    background-color: #3882F6;
+    background-color: #a11a1a;
     padding: 50px 120px;
     border-radius: 16px;
     display: flex;
@@ -196,7 +196,7 @@ ul{
 }
 
 .button2{
-    background-color: #3882F6;
+    background-color: #a11a1a;
     color:white ;
     border: 2px solid white;
     border-radius: 10px;
@@ -207,7 +207,7 @@ ul{
 /* footer */
 
 .footer{
-    background-color: #1c1f24;
+    background-color: #098f8c;
     color: #E5E7EB;
     text-align: center;
     font-size: 18px;
