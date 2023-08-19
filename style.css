@@ -203,3 +203,13 @@ ul{
     padding:10px 50px;
 
 }
+
+/* footer */
+
+.footer{
+    background-color: #1c1f24;
+    color: #E5E7EB;
+    text-align: center;
+    font-size: 18px;
+    padding: 40px 0px;
+}
