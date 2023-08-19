@@ -16,7 +16,7 @@ p{
 /* header styling */
 
 .header{
-    background-color: #1F2937;
+    background-color:  #068DA9;
     display: flex;
     justify-content: space-around;
     padding: 30px 150px 150px 150px;
@@ -54,8 +54,8 @@ p{
 
 .button1{
     color: #E5E7EB;
-    background-color: #3882F6;
-    border: #3882F6;
+    background-color: #7E1717;
+    border: #7E1717;    ;
     font-size: 18px;
     border-radius: 16px;
     padding: 10px 25px;
